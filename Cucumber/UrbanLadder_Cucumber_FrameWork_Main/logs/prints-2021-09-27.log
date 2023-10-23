@@ -1,0 +1,5 @@
+18:58:13.225 [main] INFO  com.UrbanLadder.pageobject.UrbanLadder_ListOfProductPage - Exclude Out Of Stock Check Box Selected
+18:58:19.854 [main] INFO  com.UrbanLadder.pageobject.UrbanLadder_ListOfProductPage - Product is sorted from low to high price
+18:58:27.876 [main] INFO  com.UrbanLadder.pageobject.UrbanLadder_ProductDetails - Landed on product details page
+18:58:27.927 [main] INFO  com.UrbanLadder.pageobject.UrbanLadder_ProductDetails - Product is available on sale
+18:58:27.951 [main] INFO  com.UrbanLadder.pageobject.UrbanLadder_ProductDetails - EMI is available

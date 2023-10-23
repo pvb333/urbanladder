@@ -1,0 +1,5 @@
+18:25:35.034 [main] INFO  com.UrbanLadder.pageobject.UrbanLadder_HomePage - Landed on urbanladder website
+18:25:48.090 [main] INFO  com.UrbanLadder.pageobject.UrbanLadder_ListOfProductPage - Result verified successfully
+18:25:49.700 [main] INFO  com.UrbanLadder.pageobject.UrbanLadder_ListOfProductPage - Study table result verified
+18:25:52.876 [main] INFO  com.UrbanLadder.pageobject.UrbanLadder_ListOfProductPage - In stock elements are displayed
+18:25:54.048 [main] INFO  com.UrbanLadder.pageobject.UrbanLadder_ListOfProductPage - Exclude Out Of Stock Check Box Selected
